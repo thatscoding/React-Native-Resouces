@@ -1,8 +1,10 @@
 # React-Native-Resouces
 
 ## Project setup 
-  ####  npx react-native init AwesomeProject
-  ###   cd AwesomeProject
+ ###  npx create-expo-app AwesomeProject
+
+ ###  cd AwesomeProject
+ ###  npm start 
   
   ## Tailwind Setup
   
