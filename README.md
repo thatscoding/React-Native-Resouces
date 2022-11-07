@@ -80,4 +80,6 @@ function App() {
 export default App;
 
 
-  
+  # Heroicons & SVG
+  npm i react-native-heroicons react-native-svg
+
