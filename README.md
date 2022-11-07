@@ -83,3 +83,8 @@ export default App;
   # Heroicons & SVG
   npm i react-native-heroicons react-native-svg
 
+### Usage
+
+import { SparklesIcon as SparklesIconOutline } from "react-native-heroicons/outline";
+// ...
+<SparklesIconOutline color="red" fill="black" size={42} />;
