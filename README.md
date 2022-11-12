@@ -88,3 +88,15 @@ export default App;
 import { SparklesIcon as SparklesIconOutline } from "react-native-heroicons/outline";
 // ...
 <SparklesIconOutline color="red" fill="black" size={42} />;
+
+
+#Vector icons for react native
+
+### https://oblador.github.io/react-native-vector-icons/
+
+npm i react-native-vector-icons
+
+import Icon from "react-native-vector-icons/FontAwesome5";
+<Icon name="directions" size={15} color="green" />
+
+
