@@ -11,7 +11,7 @@
   ##    https://www.nativewind.dev/quick-starts/react-native-cli
   
   ###  npm i nativewind
-  ###  npm i --dev tailwindcss
+  ###  npm i -D tailwindcss
   ###  npx tailwindcss init
   
 # Step-2
